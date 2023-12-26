@@ -1,4 +1,4 @@
-[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--pRk6FbMr--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0y6wjw1mv6w1vu7nomuf.png)
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9-EmqoZYBXCMDDaO1LXa3uqn9h4FtJGXKQw&usqp=CAU)
 <h1 align="center">Hi , I'm Khushboo Kumari</h1>
 <h3 align="center">A passionate Back-end developer from India
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/programmer-working-web-development-code-engineer-programming-python-php-java-script-computer_90220-249.jpg?w=826&t=st=1703615892~exp=1703616492~hmac=a987685591989a59acce8fbc575de2730534b00f9600b703c9030c5936d0d5f0">
