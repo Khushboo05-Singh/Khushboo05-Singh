@@ -1,7 +1,7 @@
 [![MasterHead](https://pbs.twimg.com/media/EyVEiGxWUAUZW-u?format=png&name=900x900)
 <h1 align="center">Hi , I'm Khushboo Kumari</h1>
 <h3 align="center">A passionate Back-end developer from India
-<img align="right" alt="Coding" width="100" src="https://dribbble.com/shots/15215756-Coding-Animation-Concept/attachments/6961320?mode=media">
+<img align="right" alt="Coding" width="100" src="https://www.freepik.com/premium-vector/developer-programming-computer-creates-software-coding-laptop_37997393.htm#query=female%20programmer&position=17&from_view=keyword&track=ais&uuid=8cff930c-5f8e-4629-8e2d-b7bc588925f3">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushboo05-singh&label=Profile%20views&color=0e75b6&style=flat" alt="khushboo05-singh" /> </p>
 
