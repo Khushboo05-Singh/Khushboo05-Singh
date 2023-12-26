@@ -1,4 +1,4 @@
-[![MasterHead](https://pbs.twimg.com/media/EyVEiGxWUAUZW-u?format=png&name=900x900)]
+[![MasterHead](https://pbs.twimg.com/media/EyVEiGxWUAUZW-u?format=png&name=900x900)
 <h1 align="center">Hi , I'm Khushboo Kumari</h1>
 <h3 align="center">A passionate Back-end developer from India
 <img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/15215756-Coding-Animation-Concept/attachments/6961320?mode=media">
