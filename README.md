@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fparrolabs%2Fstatus%2F1379584214983643143&psig=AOvVaw2VP51I8I2iDSW53hWO1BCu&ust=1703700716114000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKC1xoParYMDFQAAAAAdAAAAABAI)]
+[![MasterHead](https://pbs.twimg.com/media/EyVEiGxWUAUZW-u?format=png&name=900x900)]
 <h1 align="center">Hi , I'm Khushboo Kumari</h1>
 <h3 align="center">A passionate Back-end developer from India
 <img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/15215756-Coding-Animation-Concept/attachments/6961320?mode=media">
