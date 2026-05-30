@@ -1,4 +1,3 @@
-```html
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:90EE90,50:F8C8DC,100:ADD8E6&text=Khushboo%20Kumari&fontSize=45&fontColor=2F4F4F&animation=fadeIn&desc=Technical%20Support%20Engineer%20|%20DevOps%20Enthusiast%20|%20Python%20Developer&descAlignY=60"/>
 </p>
