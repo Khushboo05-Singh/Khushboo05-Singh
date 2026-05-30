@@ -1,10 +1,13 @@
+```html
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:90EE90,50:F8C8DC,100:ADD8E6&text=Khushboo%20Kumari&fontSize=45&fontColor=2F4F4F&animation=fadeIn&desc=Technical%20Support%20Engineer%20|%20DevOps%20Enthusiast%20|%20Python%20Developer&descAlignY=60"/>
+</p>
 
 <h1 align="center">Hi 👋, I'm Khushboo Kumari</h1>
 
 <h3 align="center">Technical Support Engineer | DevOps Enthusiast | Python Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/programmer-working-web-development-code-engineer-programming-python-php-java-script-computer_90220-249.jpg?w=826&t=st=1703615892~exp=1703616492~hmac=a987685591989a59acce8fbc575de2730534b00f9600b703c9030c5936d0d5f0">
-
 
 ## 👩‍💻 About Me
 
@@ -92,11 +95,11 @@ Power BI • Workflow Automation • Chatbot Development • Meta Verification
 ## 🎓 Education
 
 ### Master of Computer Applications (MCA)
-**Chandigarh University, Punjab**  
+**Chandigarh University, Punjab**
 2022 – 2024 | Score: 70%
 
 ### Bachelor of Computer Applications (BCA)
-**Makhanlal Chaturvedi University, Bhopal**  
+**Makhanlal Chaturvedi University, Bhopal**
 2018 – 2021 | Score: 74%
 
 ---
@@ -118,7 +121,6 @@ Power BI • Workflow Automation • Chatbot Development • Meta Verification
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-
 <a href="https://www.python.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </a>
@@ -162,7 +164,6 @@ Power BI • Workflow Automation • Chatbot Development • Meta Verification
 <a href="https://www.postman.com/" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </a>
-
 </p>
 
 ---
@@ -170,3 +171,8 @@ Power BI • Workflow Automation • Chatbot Development • Meta Verification
 <p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushboo05-singh&" alt="khushboo05-singh" />
 </p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=ADD8E6"/>
+</p>
+```
