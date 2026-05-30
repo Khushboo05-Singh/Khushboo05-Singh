@@ -107,7 +107,10 @@ Power BI • Workflow Automation • Chatbot Development • Meta Verification
 
 ## 🤝 Connect With Me
 
+<h3 align="left">Connect with me:</h3>
+
 <p align="left">
+
 <a href="https://www.linkedin.com/in/khushboo-kumari-8aa204207/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
 </a>
@@ -115,7 +118,10 @@ Power BI • Workflow Automation • Chatbot Development • Meta Verification
 <a href="https://www.hackerrank.com/profile/khushi843125" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" />
 </a>
+
 </p>
+
+📌 LinkedIn: https://www.linkedin.com/in/khushboo-kumari-8aa204207/
 
 ---
 
