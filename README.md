@@ -177,9 +177,6 @@ Power BI • Workflow Automation • Chatbot Development • Meta Verification
 
 ---
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushboo05-singh&show_icons=true&locale=en&layout=compact" alt="khushboo05-singh" />
-</p>
 
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=khushboo05-singh&show_icons=true&locale=en" alt="khushboo05-singh" />
