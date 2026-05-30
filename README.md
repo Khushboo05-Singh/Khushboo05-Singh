@@ -5,9 +5,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/programmer-working-web-development-code-engineer-programming-python-php-java-script-computer_90220-249.jpg?w=826&t=st=1703615892~exp=1703616492~hmac=a987685591989a59acce8fbc575de2730534b00f9600b703c9030c5936d0d5f0">
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=khushboo05-singh&label=Profile%20views&color=0e75b6&style=flat" alt="khushboo05-singh" />
-</p>
 
 ## 👩‍💻 About Me
 
