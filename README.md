@@ -1,121 +1,17 @@
-
-
-<h1 align="center">Hi 👋, I'm Khushboo Kumari</h1>
-
-<h3 align="center">Technical Support Engineer | DevOps Enthusiast | Python Developer</h3>
-
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/programmer-working-web-development-code-engineer-programming-python-php-java-script-computer_90220-249.jpg?w=826&t=st=1703615892~exp=1703616492~hmac=a987685591989a59acce8fbc575de2730534b00f9600b703c9030c5936d0d5f0">
-
-<p align="left">
-
+<!-- TOP BANNER -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:C8F7C5,50:D6EAF8,100:FDEDEC&text=Khushboo%20Kumari&fontSize=45&fontColor=2F4F4F&animation=fadeIn&desc=Technical%20Support%20Engineer%20|%20DevOps%20Enthusiast%20|%20Python%20Developer&descAlignY=60"/>
 </p>
-
-## 👩‍💻 About Me
-
-- 🔭 Currently working as **Technical Support Engineer at Veblika**
-- 🌱 Learning **DevOps, Azure, Cloud Technologies & Automation**
-- 💬 Ask me about **Python, APIs, Webhooks, Linux, SQL, Networking Fundamentals, Technical Support & Automation**
-- 📫 Reach me at **khushi843125@gmail.com**
-- ⚡ Passionate about Automation, Problem Solving and Process Optimization
-
----
-
-## 🚀 Professional Experience
-
-### Technical Support Engineer | Veblika
-**Nov 2025 – Present**
-
-- API Testing and Webhook Integrations
-- Chatbot Flow Design & Management
-- Troubleshooting Application and Server Issues
-- SLA-Based Ticket Management
-- Third-Party API Integrations
-- Monitoring System Health and Performance
-- Collaborated with development teams to improve application stability
-
-### DevOps Intern | Eko Financial Services
-**May 2025 – Nov 2025**
-
-- Shell Scripting & Cron Job Debugging
-- Process Automation
-- Deployment Support
-- Linux Administration
-- Monitoring & Reporting Automation
-- Automated data access and reporting workflows
-
-### Python Development Intern | Techplement
-**Jun 2024 – Jul 2024**
-
-- Python Automation Development
-- Data Processing using Pandas & NumPy
-- Machine Learning Concepts
-- NLP & Text Processing
-- Prompt Engineering & LLM Exploration
-- Performance Optimization of Python Scripts
-
----
-
-## 🛠️ Technical Skills
-
-### Languages
-Python • SQL • Bash • JavaScript • HTML • CSS
-
-### Frameworks & Libraries
-Django • Pandas • NumPy • Matplotlib • Selenium
-
-### DevOps & Automation
-Linux • Shell Scripting • Git • CI/CD • Azure • Automation Anywhere
-
-### Testing & QA
-Manual Testing • Automation Testing • Jira • STLC • SDLC • Agile Methodologies
-
-### Networking
-TCP/IP • DNS • DHCP • HTTP/HTTPS • OSI Model • Network Troubleshooting • Routing & Switching Fundamentals • LAN/WAN Concepts • Network Design Basics
-
-### Data Analytics & Automation
-Power BI • Workflow Automation • Chatbot Development • Meta Verification
-
----
-
-## 📜 Certifications
-
-🏆 Python Programming – HackerRank (5⭐)
-
-🏆 Automation Anywhere – Testing
-
-🏆 Google Analytics
-
-🏆 UiPath RPA Developer Foundation
-
-🏆 Data Analytics – Coursera
-
-🏆 Node.js & React.js – Infosys
-
----
-
-## 🎓 Education
-
-### Master of Computer Applications (MCA)
-**Chandigarh University, Punjab**  
-2022 – 2024 | Score: 70%
-
-### Bachelor of Computer Applications (BCA)
-**Makhanlal Chaturvedi University, Bhopal**  
-2018 – 2021 | Score: 74%
-
----
 
 ## 🤝 Connect With Me
 
-<h3 align="left">Connect with me:</h3>
-
 <p align="left">
 
-<a href="https://www.linkedin.com/in/khushboo-kumari-8aa204207/" target="blank">
+<a href="https://www.linkedin.com/in/khushboo-kumari-8aa204207/" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
 </a>
 
-<a href="https://www.hackerrank.com/profile/khushi843125" target="blank">
+<a href="https://www.hackerrank.com/profile/khushi843125" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" />
 </a>
 
@@ -176,6 +72,12 @@ Power BI • Workflow Automation • Chatbot Development • Meta Verification
 </p>
 
 ---
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushboo05-singh&" alt="khushboo05-singh" />
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=khushboo05-singh&theme=default" alt="khushboo05-singh" />
+</p>
+
+<!-- FOOTER -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:C8F7C5,50:D6EAF8,100:FDEDEC"/>
 </p>
